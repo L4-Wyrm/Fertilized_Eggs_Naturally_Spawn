@@ -1,6 +1,6 @@
 # Fertilized Eggs Naturally Spawn
 
-![Logo](http://rus-servers.3dn.ru/private/ARK_LOGO_FENS_SRC.png "Logo")
+![Logo](https://raw.githubusercontent.com/L4-Wyrm/FENS/master/Logo/ARK_LOGO_FENS_SRC_New.png "Logo")
 
 Source code of Fertilized Eggs Naturally Spawn
 
