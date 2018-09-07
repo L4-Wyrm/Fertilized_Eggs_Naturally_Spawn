@@ -62,9 +62,4 @@ Intermediate/*
 DerivedDataCache/*
 
 # Jurassic ARK Files
-JurassicPark/*
-FENS/JurassicPark/Aberration/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_Aberrant_FENS.uasset
-FENS/JurassicPark/Aberration/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_Aberrant_FENS.uasset
-FENS/JurassicPark/Dinos/JurassicTRex/JPRex3_Character_BP_FENS.uasset
-FENS/JurassicPark/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_FENS.uasset
-FENS/JurassicPark/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_FENS.uasset
+JurassicPark/
