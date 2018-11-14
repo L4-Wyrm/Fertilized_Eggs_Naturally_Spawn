@@ -63,3 +63,17 @@ DerivedDataCache/*
 
 # Jurassic ARK Files
 JurassicPark/
+
+# Source files
+
+# Folders
+src/
+
+# File extensions
+*.tga
+*.png
+*.fbx
+
+# Files
+desktop.ini
+Thumbs.db
