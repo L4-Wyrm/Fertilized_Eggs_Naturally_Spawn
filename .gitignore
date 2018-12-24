@@ -62,7 +62,7 @@ Intermediate/*
 DerivedDataCache/*
 
 # Jurassic ARK Files
-JurassicPark/
+Mods/JurassicPark/
 
 # Source files
 
@@ -77,3 +77,9 @@ src/
 # Files
 desktop.ini
 Thumbs.db
+
+# Test Buff
+CoreBlueprints/Buffs/
+
+# ARK Additions: Domination Rex! Files
+Mods/JurassicPark/
