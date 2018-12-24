@@ -62,7 +62,7 @@ Intermediate/*
 DerivedDataCache/*
 
 # Jurassic ARK Files
-Mods/JurassicPark/
+Mods/JurassicPark/*
 
 # Source files
 
@@ -82,4 +82,4 @@ Thumbs.db
 CoreBlueprints/Buffs/
 
 # ARK Additions: Domination Rex! Files
-Mods/JurassicPark/
+Mods/Indominus/*
