@@ -62,7 +62,11 @@ Intermediate/*
 DerivedDataCache/*
 
 # Jurassic ARK Files
-Mods/JurassicPark/*
+FENS/Mods/JurassicPark/Dinos/JurassicTRex/JPRex3_Character_BP_FENS.uasset
+FENS/Mods/JurassicPark/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_FENS.uasset
+FENS/Mods/JurassicPark/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_FENS.uasset
+FENS/Mods/JurassicPark/Aberration/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_Aberrant_FENS.uasset
+FENS/Mods/JurassicPark/Aberration/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_Aberrant_FENS.uasset
 
 # Source files
 
@@ -79,7 +83,12 @@ desktop.ini
 Thumbs.db
 
 # Test Buff
-CoreBlueprints/Buffs/
+FENS/CoreBlueprints/Buffs/BuffMapSpawns_FENS.uasset
 
 # ARK Additions: Domination Rex! Files
-Mods/Indominus/*
+FENS/Mods/Indominus/Dino/Indominus_Character_SE_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_Dud_SE_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_Dud_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_Dud_AB_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_AB_BP_FENS.uasset
