@@ -92,3 +92,14 @@ FENS/Mods/Indominus/Dino/Indominus_Character_Dud_BP_FENS.uasset
 FENS/Mods/Indominus/Dino/Indominus_Character_Dud_AB_BP_FENS.uasset
 FENS/Mods/Indominus/Dino/Indominus_Character_BP_FENS.uasset
 FENS/Mods/Indominus/Dino/Indominus_Character_AB_BP_FENS.uasset
+
+# Test Dinos
+FENS/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
+FENS/Dinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
+FENS/Dinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
+FENS/Extinction/Dinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
+
+# Test Maps
+FENS/Maps/FENS_TestMap.umap
+FENS/Maps/FENS_TestMap2.umap
+FENS/Maps/FENS_TestMapV2.umap
