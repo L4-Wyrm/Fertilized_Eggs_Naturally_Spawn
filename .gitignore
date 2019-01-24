@@ -61,13 +61,6 @@ Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Jurassic ARK Files
-FENS/Mods/JurassicPark/Dinos/JurassicTRex/JPRex3_Character_BP_FENS.uasset
-FENS/Mods/JurassicPark/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_FENS.uasset
-FENS/Mods/JurassicPark/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_FENS.uasset
-FENS/Mods/JurassicPark/Aberration/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_Aberrant_FENS.uasset
-FENS/Mods/JurassicPark/Aberration/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_Aberrant_FENS.uasset
-
 # Source files
 
 # Folders
@@ -82,16 +75,11 @@ src/
 desktop.ini
 Thumbs.db
 
+
+#FENS Files
+
 # Test Buff
 FENS/CoreBlueprints/Buffs/BuffMapSpawns_FENS.uasset
-
-# ARK Additions: Domination Rex! Files
-FENS/Mods/Indominus/Dino/Indominus_Character_SE_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_Dud_SE_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_Dud_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_Dud_AB_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_AB_BP_FENS.uasset
 
 # Test Dinos
 FENS/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
@@ -104,3 +92,20 @@ FENS/Extinction/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uas
 FENS/Maps/FENS_TestMap.umap
 FENS/Maps/FENS_TestMap2.umap
 FENS/Maps/FENS_TestMapV2.umap
+
+# FENS Other Mods
+
+# Jurassic ARK Files
+FENS/Mods/JurassicPark/Dinos/JurassicTRex/JPRex3_Character_BP_FENS.uasset
+FENS/Mods/JurassicPark/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_FENS.uasset
+FENS/Mods/JurassicPark/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_FENS.uasset
+FENS/Mods/JurassicPark/Aberration/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_Aberrant_FENS.uasset
+FENS/Mods/JurassicPark/Aberration/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_Aberrant_FENS.uasset
+
+# ARK Additions: Domination Rex! Files
+FENS/Mods/Indominus/Dino/Indominus_Character_SE_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_Dud_SE_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_Dud_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_Dud_AB_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_BP_FENS.uasset
+FENS/Mods/Indominus/Dino/Indominus_Character_AB_BP_FENS.uasset
