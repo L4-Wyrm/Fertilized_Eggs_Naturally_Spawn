@@ -99,6 +99,7 @@ FENS/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
 FENS/Dinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
 FENS/Dinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
 FENS/Extinction/Dinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
+FENS/Extinction/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uasset
 
 # Test Maps
 FENS/Maps/FENS_TestMap.umap
