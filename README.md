@@ -8,6 +8,9 @@ Source code of Fertilized Eggs Naturally Spawn
 ![Description](https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/master/Text/fens_description.png "Description")
 This is full source code of Fertilized Eggs Naturally Spawn
 
+![Installation](https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/master/Text/fens_description.png "Installation")
+Copy FENS folder to "ARK Dev Kit root folder/Projects/ShooterGame/Content/Mods"
+
 ### Redistribution
 Feel free to use any assets of this modification, as long as you credit me as original author!
 
