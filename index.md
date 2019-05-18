@@ -1,5 +1,3 @@
-![Title](https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/master/Text/fens_fens.png "Title")
-
 ![Logo](https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/master/Logo/ARK_LOGO_FENS_SRC_New2.png "Logo")
 
 Source code of Fertilized Eggs Naturally Spawn
