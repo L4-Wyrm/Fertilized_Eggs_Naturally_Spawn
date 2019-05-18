@@ -68,7 +68,7 @@ src/
 
 # File extensions
 *.tga
-*.png
+#*.png
 *.fbx
 
 # Files
