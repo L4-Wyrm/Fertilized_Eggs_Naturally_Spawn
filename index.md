@@ -17,5 +17,5 @@ Source code of Fertilized Eggs Naturally Spawn
 *   Feel free to use any assets of this modification, as long as you credit me as original author!
 
 
-#### License
+![License](https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/master/Text/fens_license.png "License")
 *   Licensed under [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
