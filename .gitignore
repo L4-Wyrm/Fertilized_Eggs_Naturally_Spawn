@@ -92,20 +92,3 @@ FENS/Extinction/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uas
 FENS/Maps/FENS_TestMap.umap
 FENS/Maps/FENS_TestMap2.umap
 FENS/Maps/FENS_TestMapV2.umap
-
-# FENS Other Mods
-
-# Jurassic ARK Files
-FENS/Mods/JurassicPark/Dinos/JurassicTRex/JPRex3_Character_BP_FENS.uasset
-FENS/Mods/JurassicPark/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_FENS.uasset
-FENS/Mods/JurassicPark/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_FENS.uasset
-FENS/Mods/JurassicPark/Aberration/Dinos/JurassicWVelociraptor/JWVelociraptor_Character_BP_Aberrant_FENS.uasset
-FENS/Mods/JurassicPark/Aberration/Dinos/JurassicVelociraptor/Velociraptor_Character_BP_Aberrant_FENS.uasset
-
-# ARK Additions: Domination Rex! Files
-FENS/Mods/Indominus/Dino/Indominus_Character_SE_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_Dud_SE_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_Dud_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_Dud_AB_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_BP_FENS.uasset
-FENS/Mods/Indominus/Dino/Indominus_Character_AB_BP_FENS.uasset
