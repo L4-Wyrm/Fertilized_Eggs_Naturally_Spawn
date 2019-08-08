@@ -78,9 +78,6 @@ Thumbs.db
 
 #FENS Files
 
-# Test Buff
-FENS/CoreBlueprints/Buffs/BuffMapSpawns_FENS.uasset
-
 # Test Dinos
 FENS/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
 FENS/Dinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
@@ -92,3 +89,5 @@ FENS/Extinction/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uas
 FENS/Maps/FENS_TestMap.umap
 FENS/Maps/FENS_TestMap2.umap
 FENS/Maps/FENS_TestMapV2.umap
+FENS/CoreBlueprints/Dino_Character_Test_BP_FENS.uasset
+FENS/Dinos/Raptor/Raptor2TestMap_Character_BP_FENS.uasset
