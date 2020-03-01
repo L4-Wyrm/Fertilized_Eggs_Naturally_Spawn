@@ -2,7 +2,7 @@
 
 Source code of Fertilized Eggs Naturally Spawn
 
-![Description](https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Text/fens_description.png.png "Description")
+![Description](https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Text/fens_description.png "Description")
 
 *   This is full source code of Fertilized Eggs Naturally Spawn
 
