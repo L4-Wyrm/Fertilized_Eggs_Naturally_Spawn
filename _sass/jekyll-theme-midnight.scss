@@ -86,7 +86,9 @@ strong {
   border-bottom: 4px solid #434343;
   border-left: 4px solid #434343;
   border-right: 4px solid #434343;
+  border-top: 4px solid #434343;
   box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
+  top: 0px;
 }
 
 section img {
@@ -173,11 +175,13 @@ dt {
   position:relative;
   padding: 0 15px;
   right: 0;
+  top: 0px;
   position: fixed;
   background: url(../images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
   border-left: 4px solid #434343;
   border-right: 4px solid #434343;
+  border-top: 4px solid #434343;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
 
   nav {
