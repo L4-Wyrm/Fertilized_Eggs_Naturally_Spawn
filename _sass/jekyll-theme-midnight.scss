@@ -163,11 +163,16 @@ dt {
 
 
 #header {
-  z-index: 100;
+/*/  z-index: 100;
   left:0;
   top: 0px;
   height: 60px;
   width: 100%;
+*/
+  max-width:650px;
+  margin:0 auto;
+  position:relative;
+  padding: 0 20px;
   position: fixed;
   background: url(../images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
