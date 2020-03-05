@@ -195,13 +195,13 @@ dt {
       font-weight: normal;
       list-style: none;
       display: inline;
-      color: white;
+	  color: #5c5688;
       line-height: 50px;
-      text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+	  text-shadow: 1px 2px 1px #160848;
       font-size: 14px;
 
       a {
-		color: #5c5688;
+        color: white;
         border: 1px solid #5d910b;
         background: linear-gradient(#93bd20, #659e10);
         border-radius: 2px;
@@ -214,7 +214,6 @@ dt {
         font-size:14px;
         display:inline-block;
         text-align:center;
-		text-shadow: 1px 2px 1px #160848;
 
         &:hover {
           background: linear-gradient(#749619, #527f0e);
@@ -354,13 +353,13 @@ section {
       font-weight: normal;
       list-style: none;
       display: inline;
-      color: white;
+	  color: #5c5688;
       line-height: 50px;
-      text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+	  text-shadow: 1px 2px 1px #160848;
       font-size: 14px;
 
       a {
-		color: #5c5688;
+		color: white;
         border: 1px solid #5d910b;
         background: linear-gradient(#93bd20, #659e10);
         border-radius: 2px;
@@ -373,7 +372,6 @@ section {
         font-size:14px;
         display:inline-block;
         text-align:center;
-		text-shadow: 1px 2px 1px #160848;
 
         &:hover {
           background: linear-gradient(#749619, #527f0e);
@@ -427,13 +425,13 @@ section {
       font-weight: normal;
       list-style: none;
       display: inline;
-      color: white;
+	  color: #5c5688;
       line-height: 50px;
-      text-shadow: 0px 1px 0px rgba(0,0,0,.2);
+	  text-shadow: 1px 2px 1px #160848;
       font-size: 14px;
 
       a {
-		color: #5c5688;
+		color: white;
         border: 1px solid #5d910b;
         background: linear-gradient(#93bd20, #659e10);
         border-radius: 2px;
@@ -446,7 +444,6 @@ section {
         font-size:14px;
         display:inline-block;
         text-align:center;
-		text-shadow: 1px 2px 1px #160848;
 
         &:hover {
           background: linear-gradient(#749619, #527f0e);
