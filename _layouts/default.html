@@ -19,6 +19,26 @@
   </head>
   
   <body>
+
+	<div class="wrapper" style="border-top-style: solid;border-top-width: 1px;padding-top: 0px;">
+
+      <section>
+        <div id="title">
+<!--		  <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
+		  <h1><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=766032350"><img src="https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Text/fens_fens.png"></a></h1>
+          <p>{{ site.description | default: site.github.project_tagline }}</p>
+          <hr>
+ <!--         <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span> -->
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a> modified by L4-Wyrm</span>
+		  <span class="credits left">Project maintained by L4-Wyrm</span>
+        </div>
+
+        {{ content }}
+
+      </section>
+
+    </div>
+
       <div id="header">
         <nav>
  <!--         <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li> -->
@@ -47,25 +67,6 @@
             <li class="title">SUPPORT THE AUTHOR:</li>
         </nav>
       </div><!-- end support -->
-
-	<div class="wrapper" style="border-top-style: solid;border-top-width: 1px;padding-top: 0px;">
-
-      <section>
-        <div id="title">
-<!--		  <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
-		  <h1><a href="https://steamcommunity.com/sharedfiles/filedetails/?id=766032350"><img src="https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Text/fens_fens.png"></a></h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
- <!--         <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span> -->
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a> modified by L4-Wyrm</span>
-		  <span class="credits left">Project maintained by L4-Wyrm</span>
-        </div>
-
-        {{ content }}
-
-      </section>
-
-    </div>
 
     {% if site.google_analytics %}
       <script>
