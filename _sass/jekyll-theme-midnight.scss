@@ -82,14 +82,11 @@ strong {
   max-width:650px;
   margin:0 auto;
   position:relative;
-  padding: 0 20px;
-  background: url(../images/nav-bg.gif) #353535;
-  border-bottom: 4px solid #434343;
-  border-left: 4px solid #434343;
-  border-right: 4px solid #434343;
+  padding: 0 55px;
+  background: url(https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Background/ARK_WRPPR_FENS_SRC.png);
   border-top: 4px solid #434343;
-  box-shadow: 0px 1px 3px rgba(0,0,0,0.25);
   top: 0px;
+  background-size: 100% 100%;
 }
 
 section img {
@@ -153,7 +150,7 @@ hr {
   border: 0;
   outline: none;
   height: 3px;
-  background: transparent url('../images/hr.gif') center center repeat-x;
+ /*/ background: transparent url('../images/hr.gif') center center repeat-x; */
   margin: 0 0 20px;
 }
 
@@ -178,10 +175,14 @@ dt {
   right: 0;
   top: 0px;
   position: fixed;
+/*/  
   background: url(../images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
   border-left: 4px solid #434343;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+/*/
+  background: url(https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Background/ARK_WRPPR_FENS_SRC.png);
+  background-size: 100% 100%;
 
   nav {
     max-width: 650px;
@@ -335,11 +336,15 @@ section {
   right: 0;
   top: 65px;
   position: fixed;
+/*/
   background: url(../images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
   border-left: 4px solid #434343;
   border-top: 4px solid #434343;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+/*/
+  background: url(https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Background/ARK_WRPPR_FENS_SRC.png);
+  background-size: 100% 100%;
 
   nav {
     max-width: 650px;
@@ -408,10 +413,14 @@ section {
   left: 0;
   top: 0px;
   position: fixed;
+/*/
   background: url(../images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
   border-right: 4px solid #434343;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
+/*/
+  background: url(https://raw.githubusercontent.com/L4-Wyrm/Fertilized_Eggs_Naturally_Spawn/gh-pages/Images/Background/ARK_WRPPR_FENS_SRC.png);
+  background-size: 100% 100%;
 
   nav {
     max-width: 650px;
