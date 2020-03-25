@@ -95,7 +95,4 @@ FENS/Extinction/Dinos/Spindles/SpindlesTestMap2_Character_BP_FENS.uasset
 
 
 # Test Maps
-
-FENS/Maps/FENS_TestMap.umap
-FENS/Maps/FENS_TestMap2.umap
-FENS/Maps/FENS_TestMapV2.umap
+FENS/Maps/*
