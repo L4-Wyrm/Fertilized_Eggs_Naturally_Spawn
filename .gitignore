@@ -89,9 +89,12 @@ FENS/Dinos/Raptor/Raptor2TestMap_Character_BP_FENS.uasset
 FENS/Dinos/Dilo/Dilo2TestMap_Character_BP_FENS.uasset
 FENS/Extinction/Dinos/Spindles/SpindlesTestMap2_Character_BP_FENS.uasset
 
+# Test Maps
+FENS/Maps/*
+
 # Test Structures
 FENS/Structures/DinoSpawner/Blueprints/PrimalItemStructure_DinoSpawnTest_FENS.uasset
 FENS/Structures/DinoSpawner/Blueprints/PrimalItemStructure_DinoSpawner_Test_FENS.uasset
 
-# Test Maps
-FENS/Maps/*
+# Test Singleton Actors
+FENS/CoreBlueprints/ActiveSpawners/Spawner_Test_BP_FENS.uasset
