@@ -79,25 +79,11 @@ Thumbs.db
 #FENS Files
 
 # Test Dinos
-FENS/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
-FENS/Dinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
-FENS/Dinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
-FENS/Extinction/Dinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
-FENS/Extinction/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uasset
-FENS/CoreBlueprints/Dino_Character_Test_BP_FENS.uasset
-FENS/Dinos/Raptor/Raptor2TestMap_Character_BP_FENS.uasset
-FENS/Dinos/Dilo/Dilo2TestMap_Character_BP_FENS.uasset
-FENS/Extinction/Dinos/Spindles/SpindlesTestMap2_Character_BP_FENS.uasset
+
+FENSAddon2/Extinction/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENSAddon2.uasset
+FENSAddon2/Dinos/Raptor/Uberraptor/Deinonychus_Character_Test_BP_FENSAddon2.uasset
+FENSAddon2/CoreBlueprints/Dino_Character_Test_BP_FENSAddon2.uasset
+FENSAddon2/Aberration/Dinos/LanternBird/LanternBird_Character_Test_BP_FENSAddon2.uasset
 
 # Test Maps
-FENS/Maps/*
-
-# Test Structures
-FENS/Structures/DinoSpawner/Blueprints/PrimalItemStructure_DinoSpawnTest_FENS.uasset
-FENS/Structures/DinoSpawner/Blueprints/PrimalItemStructure_DinoSpawner_Test_FENS.uasset
-
-# Test Singleton Actors
-FENS/CoreBlueprints/ActiveSpawners/Spawner_Test_BP_FENS.uasset
-
-# Test Game Data
-FENS/PrimalGameData_Test_BP_FENS.uasset
+FENSAddon2/Maps/FENSAddon2_TestMapV2.umap
