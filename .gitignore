@@ -98,6 +98,7 @@ FENS/Structures/DinoSpawner/Blueprints/PrimalItemStructure_DinoSpawner_Test_FENS
 
 # Test Singleton Actors
 FENS/CoreBlueprints/ActiveSpawners/Spawner_Test_BP_FENS.uasset
+FENS/CoreBlueprints/AdditionalSpawns_FENS.uasset
 
 # Test Game Data
 FENS/PrimalGameData_Test_BP_FENS.uasset
