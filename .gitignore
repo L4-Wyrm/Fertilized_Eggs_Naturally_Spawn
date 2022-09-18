@@ -79,25 +79,33 @@ Thumbs.db
 #FENS Files
 
 # Test Dinos
-FENS/TestDinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
 FENS/TestDinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Allosaurus/AlloTest_Character_BP_FENS.uasset
+FENS/TestDinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uasset
+FENS/TestDinos/Dilo/Dilo2TestMap_Character_BP_FENS.uasset
 FENS/TestDinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Dilo/PrimalItemConsumable_Egg_TestDilo_Fertilized_FENS.uasset
+FENS/TestDinos/Raptor/PrimalItemConsumable_Egg_TestRaptor_Fertilized_FENS.uasset
+FENS/TestDinos/Raptor/Raptor2TestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Spindles/PrimalItemConsumable_Egg_TestSpindles_Fertilized_FENS.uasset
+FENS/TestDinos/Spindles/SpindlesTestMap2_Character_BP_FENS.uasset
+FENS/TestDinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
+FENS/CoreBlueprints/Dino_Character_BP_HandleNearbyBabyDinos_FENS.uasset
+FENS/CoreBlueprints/Dino_Character_Test_BP_FENS.uasset
 
 # Test Maps
 FENS/Maps/*
 
 # Test Structures
-FENS/Structures/DinoSpawner/Blueprints/PrimalItemStructure_DinoSpawnTest_FENS.uasset
-FENS/Structures/DinoSpawner/Blueprints/PrimalItemStructure_DinoSpawner_Test_FENS.uasset
+FENS/Structures/DinoSpawner/PrimalEarth/Blueprints/BaseBPs/DinoSpawner_Test_BP_FENS.uasset
+FENS/Structures/DinoSpawner/PrimalEarth/Blueprints/PrimalItemStructure_DinoSpawner_Test_FENS.uasset
 
 # Test Singleton Actors
-FENS/CoreBlueprints/ActiveSpawners/Spawner_Test_BP_FENS.uasset
-FENS/CoreBlueprints/AdditionalSpawns_FENS.uasset
+FENS/CoreBlueprints/ActiveSpawners/BaseBPs/Spawner_Test_BP_FENS.uasset
 
 # Test Game Data
 FENS/PrimalGameData_Test_BP_FENS.uasset
+
+# Test Engrams
+FENS/Structures/DinoSpawner/PrimalEarth/Engrams/EngramEntry_DinoSpawner_Test_FENS.uasset
