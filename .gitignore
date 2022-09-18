@@ -79,15 +79,14 @@ Thumbs.db
 #FENS Files
 
 # Test Dinos
-FENS/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
-FENS/Dinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
-FENS/Dinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
-FENS/Extinction/Dinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
-FENS/Extinction/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uasset
-FENS/CoreBlueprints/Dino_Character_Test_BP_FENS.uasset
-FENS/Dinos/Raptor/Raptor2TestMap_Character_BP_FENS.uasset
-FENS/Dinos/Dilo/Dilo2TestMap_Character_BP_FENS.uasset
-FENS/Extinction/Dinos/Spindles/SpindlesTestMap2_Character_BP_FENS.uasset
+FENS/TestDinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
+FENS/TestDinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
 
 # Test Maps
 FENS/Maps/*
