@@ -79,33 +79,37 @@ Thumbs.db
 #FENS Files
 
 # Test Dinos
-FENS/TestDinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Allosaurus/AlloTest_Character_BP_FENS.uasset
-FENS/TestDinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uasset
-FENS/TestDinos/Dilo/Dilo2TestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Dilo/PrimalItemConsumable_Egg_TestDilo_Fertilized_FENS.uasset
-FENS/TestDinos/Raptor/PrimalItemConsumable_Egg_TestRaptor_Fertilized_FENS.uasset
-FENS/TestDinos/Raptor/Raptor2TestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
-FENS/TestDinos/Spindles/PrimalItemConsumable_Egg_TestSpindles_Fertilized_FENS.uasset
-FENS/TestDinos/Spindles/SpindlesTestMap2_Character_BP_FENS.uasset
-FENS/TestDinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
-FENS/CoreBlueprints/Dino_Character_BP_HandleNearbyBabyDinos_FENS.uasset
-FENS/CoreBlueprints/Dino_Character_Test_BP_FENS.uasset
+FENS/Test/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
+FENS/Test/Dinos/Allosaurus/AlloTest_Character_BP_FENS.uasset
+FENS/Test/Dinos/Corrupt/Raptor/RaptorTestMap_Character_BP_Corrupt_FENS.uasset
+FENS/Test/Dinos/Dilo/Dilo2TestMap_Character_BP_FENS.uasset
+FENS/Test/Dinos/Dilo/DiloTestMap_Character_BP_FENS.uasset
+FENS/Test/Dinos/Dilo/PrimalItemConsumable_Egg_TestDilo_Fertilized_FENS.uasset
+FENS/Test/Dinos/Raptor/PrimalItemConsumable_Egg_TestRaptor_Fertilized_FENS.uasset
+FENS/Test/Dinos/Raptor/Raptor2TestMap_Character_BP_FENS.uasset
+FENS/Test/Dinos/Raptor/RaptorTestMap_Character_BP_FENS.uasset
+FENS/Test/Dinos/Spindles/PrimalItemConsumable_Egg_TestSpindles_Fertilized_FENS.uasset
+FENS/Test/Dinos/Spindles/SpindlesTestMap2_Character_BP_FENS.uasset
+FENS/Test/Dinos/Spindles/SpindlesTestMap_Character_BP_FENS.uasset
+FENS/Test/CoreBlueprints/Dino_Character_BP_HandleNearbyBabyDinos_FENS.uasset
+FENS/Test/CoreBlueprints/Dino_Character_Test_BP_FENS.uasset
 
 # Test Maps
-FENS/Maps/*
+FENS/Test/Maps/*
 
 # Test Structures
-FENS/Structures/DinoSpawner/PrimalEarth/Blueprints/BaseBPs/DinoSpawner_Test_BP_FENS.uasset
-FENS/Structures/DinoSpawner/PrimalEarth/Blueprints/PrimalItemStructure_DinoSpawner_Test_FENS.uasset
+FENS/Test/Structures/DinoSpawner/PrimalEarth/Blueprints/BaseBPs/DinoSpawner_Test_BP_FENS.uasset
+FENS/Test/Structures/DinoSpawner/PrimalEarth/Blueprints/PrimalItemStructure_DinoSpawner_Test_FENS.uasset
 
 # Test Singleton Actors
-FENS/CoreBlueprints/ActiveSpawners/BaseBPs/Spawner_Test_BP_FENS.uasset
+FENS/Test/CoreBlueprints/ActiveSpawners/BaseBPs/Spawner_Test_BP_FENS.uasset
 
 # Test Game Data
-FENS/PrimalGameData_Test_BP_FENS.uasset
+FENS/Test/PrimalGameData_Test_BP_FENS.uasset
 
 # Test Engrams
-FENS/Structures/DinoSpawner/PrimalEarth/Engrams/EngramEntry_DinoSpawner_Test_FENS.uasset
+FENS/Test/Structures/DinoSpawner/PrimalEarth/Engrams/EngramEntry_DinoSpawner_Test_FENS.uasset
+
+
+# Test Items
+FENS/Test/Items/DinoEgg/Meshes/DinoEgg_DM_FENS.uasset
