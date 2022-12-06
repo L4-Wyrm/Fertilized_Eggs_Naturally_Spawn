@@ -78,6 +78,9 @@ Thumbs.db
 
 #FENS Files
 
+# Additional Spawns
+FENS/_AdditionalSpawns/PrimalGameData_BP_AdditionalSpawns_FENS.uasset
+
 # Test Dinos
 FENS/Test/Dinos/Allosaurus/AlloTestMap_Character_BP_FENS.uasset
 FENS/Test/Dinos/Allosaurus/AlloTest_Character_BP_FENS.uasset
